@@ -6,6 +6,8 @@
 Welcome to NaiveShark.com help!
 =============================================
 
+http://www.naiveshark.com is an open database of world-wide industrial products. You are free to add your (or any) organization or products to catalog, or extend existing.
+
 Contents:
 
 .. toctree::
