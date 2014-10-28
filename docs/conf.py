@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'NaiveShark.com Hel pages'
+project = 'NaiveShark.com Help pages'
 copyright = '2014, NaiveShark'
 
 # The version info for the project you're documenting, acts as replacement for
