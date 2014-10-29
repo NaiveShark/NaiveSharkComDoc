@@ -28,9 +28,11 @@ First release with basic functions:
 * WYSIWYG Editor for descriptions
 
 Contents:
-
+ 
 .. toctree::
    :maxdepth: 2
+
+   catalog
 
 Indices and tables
 ==================
