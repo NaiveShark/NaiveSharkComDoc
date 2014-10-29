@@ -1,4 +1,4 @@
 Catalog
 =======
 
-Catalog is a tree of categories, containing the products and organizations.
+Catalog is a tree of categories, containing the :doc:`products</product>` and organizations.
