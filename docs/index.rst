@@ -6,7 +6,7 @@
 Welcome to NaiveShark.com help!
 =============================================
 
-http://www.naiveshark.com is an open database of world-wide industrial products. You are free to add your (or any) organization or products to catalog, or extend existing.
+http://www.naiveshark.com is an open database of world-wide industrial products. You are free to add your (or any) organization or products to catalog, or extend existing information.
 
 
 Version history
@@ -25,7 +25,7 @@ First release with basic functions:
 
 * Full-text search
 
-* WYSIWYG Editor for descriptions
+* WYSIWYG Editor for descriptions, with rich text formatting, image and video embedding.
 
 Contents:
  
