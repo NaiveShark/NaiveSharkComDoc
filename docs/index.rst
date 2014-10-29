@@ -33,6 +33,9 @@ Contents:
    :maxdepth: 2
 
    catalog
+   product
+   property
+   organization   
 
 Indices and tables
 ==================
