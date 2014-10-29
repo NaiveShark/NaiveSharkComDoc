@@ -11,7 +11,15 @@ http://www.naiveshark.com is an open database of world-wide industrial products.
 
 Version history
 ===============
-Version 0.0.1 "Call from the abyss" 
+Version 0.0.1 "Call from the abyss"
+
+First release with basic functions:
+* User profiles
+* Catalog structure
+* Products with properties
+* Organizations
+* Full-text search
+* WYSIWYG Editor for descriptions ()
 
 Contents:
 
