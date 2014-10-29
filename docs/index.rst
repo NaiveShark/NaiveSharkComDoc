@@ -25,9 +25,7 @@ First release with basic functions:
 
 * Full-text search
 
-* WYSIWYG Editor for descriptions ()
-
-  * etc
+* WYSIWYG Editor for descriptions
 
 Contents:
 
