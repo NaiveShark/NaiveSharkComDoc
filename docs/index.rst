@@ -56,3 +56,4 @@ Contents:
    product
    property
    organization
+   bot
