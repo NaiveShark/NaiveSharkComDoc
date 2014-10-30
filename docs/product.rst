@@ -23,12 +23,13 @@ Measurable parameters:
 Enumerable parameters:
 
 * :doc:`Enumerable property type</property>`
-* value
+* Value
 
 BOM
 ---
 
 Bill of materials for this product.
+
 # Position (optional)
 # Subpoduct
 # Amount
