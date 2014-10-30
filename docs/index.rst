@@ -17,7 +17,7 @@ Who can use it?
 * Technical support professionals - for contacting with costumers
 * Anyone!
 
-Database is published on http://www.naiveshark.com web-site, and supported by open community http://www.naiveshark.com/u/ and :doc:`bots</bot>`. If you are just searching, please, navigate the catalog and read about published product - all information are open for anyone. If you want to add some information - you are free to register and contribute.
+Database is published on http://www.naiveshark.com web-site, and supported by open `community <http://www.naiveshark.com/u/>`_  and :doc:`bots</bot>`. If you are just searching, please, navigate the catalog and read about published product - all information are open for anyone. If you want to add some information - you are free to register and contribute.
 
 How can I contribute?
 =====================
