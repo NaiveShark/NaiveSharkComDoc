@@ -10,6 +10,24 @@ Each product should be assigned to :doc:`category</catalog>`.
 Product properties
 ------------------
 
+Product measurable and enumerable properties.
+
+Measurable parameters:
+* :doc:`Measurable property type</property>`
+* Amount (nemerical and text)
+* Maximum amount (numerical)
+* Engineering tolerance (numerical)
+* Unit
+
+Enumerable parameters:
+* :doc:`Enumerable property type</property>`
+* value
 
 BOM
 ---
+
+Bill of materials for this product.
+# Position (optional)
+# Subpoduct
+# Amount
+# Unit (optional)
