@@ -13,6 +13,7 @@ Product properties
 Product measurable and enumerable properties.
 
 Measurable parameters:
+
 * :doc:`Measurable property type</property>`
 * Amount (nemerical and text)
 * Maximum amount (numerical)
@@ -20,6 +21,7 @@ Measurable parameters:
 * Unit
 
 Enumerable parameters:
+
 * :doc:`Enumerable property type</property>`
 * value
 
