@@ -39,15 +39,10 @@ Version 0.0.1 "Call from the abyss"
 First release with basic functions:
 
 * User profiles
-
 * Catalog structure
-
 * Products with properties
-
 * Organizations
-
 * Full-text search
-
 * WYSIWYG Editor for descriptions, with rich text formatting, image and video embedding.
 
 Contents:
