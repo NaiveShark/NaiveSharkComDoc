@@ -6,7 +6,7 @@
 Welcome to NaiveShark.com help!
 =============================================
 
-http://www.naiveshark.com is an open database of world-wide industrial :doc:`products</product>`. You are free to add your (or any) organization or products to :doc:`catalog</catalog>`, or extend existing information.
+`NaiveShark.com <http://www.naiveshark.com>`_ is an open database of world-wide industrial :doc:`products</product>`. You are free to add your (or any) organization or products to :doc:`catalog</catalog>`, or extend existing information.
 
 Who can use it?
 ===============
