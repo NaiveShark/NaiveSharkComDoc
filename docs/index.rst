@@ -19,6 +19,19 @@ Who can use it?
 
 Database is published on http://www.naiveshark.com web-site, and supported by open community http://www.naiveshark.com/u/ and bots. If you are just searching - please, navigate the catalog. If you want to add some information - you are free to register and contribute.
 
+How can I contribute?
+=====================
+
+After you free and simple registration on site, you can:
+
+* Add new products and organizations to catalog
+* Add or edit descriptions for existing products and organizations
+* Add or edit property values to products and organizations
+* Reorganize structure of catalog
+* Add new quantity, property and measure units to reference
+
+For rising popularity of NaiveShark community-driven portal, please, post the link to NaiveShark.com on any sites, forums, social networks, where any people can learn about it.
+
 Version history
 ===============
 Version 0.0.1 "Call from the abyss"
