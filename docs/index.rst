@@ -17,12 +17,12 @@ Who can use it?
 * Technical support professionals - for contacting with costumers
 * Anyone!
 
-Database is published on http://www.naiveshark.com web-site, and supported by open community http://www.naiveshark.com/u/ and bots. If you are just searching - please, navigate the catalog. If you want to add some information - you are free to register and contribute.
+Database is published on http://www.naiveshark.com web-site, and supported by open community http://www.naiveshark.com/u/ and :doc:`bots</bot>`. If you are just searching, please, navigate the catalog and read about published product - all information are open for anyone. If you want to add some information - you are free to register and contribute.
 
 How can I contribute?
 =====================
 
-After you free and simple registration on site, you can:
+After you has completed the free and simple registration on site, you can:
 
 * Add new products and organizations to catalog
 * Add or edit descriptions for existing products and organizations
@@ -43,7 +43,9 @@ First release with basic functions:
 * Products with properties
 * Organizations
 * Full-text search
+* Full history of data editing
 * WYSIWYG Editor for descriptions, with rich text formatting, image and video embedding.
+* SharkBot
 
 Contents:
  
