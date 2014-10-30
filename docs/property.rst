@@ -6,8 +6,14 @@ Property is a portion of information about some :doc:`product</product>`. For ex
 Measurable property
 -------------------
 
-Each measurable property are derived from physical Quantity. For example, basic physical quantity 'Length' are used for several product properties - 'Width', 'Range of a projectile', 'Maximum range', 'Typical measuring range' etc. Each Quantity have a list of units - for Length it's a 'metre', 'inch', 'yard' etc.
+Each measurable property are derived from physical Quantity. For example, basic physical quantity 'Length' are used for several product properties - 'Width', 'Range of a projectile', 'Maximum range', 'Typical measuring range' etc. Each quantity have a list of units - for 'Length' it's a 'metre', 'inch', 'yard' etc. All units in one Quantity can be easily converted to each one. 
+
+Users can extend list of quantities, units and properties.
 
 
 Enumerable property
 -------------------
+
+Enumerable property is a parameter with list of predefined values. For example, 'IP' (Ingress Protection Rating) can be 'IP22', 'IP67' etc.
+
+Users can extend list of enumerable properties and values.
