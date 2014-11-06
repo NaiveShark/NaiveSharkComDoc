@@ -34,6 +34,7 @@ For rising popularity of NaiveShark community-driven portal, please, post the li
 
 Version history
 ===============
+
 Version 0.0.1 "Call from the abyss"
 
 First release with basic functions:
