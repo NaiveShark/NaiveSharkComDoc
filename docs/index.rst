@@ -39,7 +39,7 @@ Version 0.0.2 "Deep currents" 06 nov 2014
 + Relations between products ("Required accessories", "Repair parts")
 * Fixed error in BOM editor ("amount max" is optional parameter now)
 
-Version 0.0.1 "Call from the abyss"
+Version 0.0.1 "Call from the abyss" 27 oct 2014
 
 First release with basic functions:
 
