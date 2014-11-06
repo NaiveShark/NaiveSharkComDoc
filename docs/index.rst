@@ -36,6 +36,7 @@ Version history
 ===============
 
 Version 0.0.2 "Deep currents" 06 nov 2014
+
 + Relations between products ("Required accessories", "Repair parts")
 * Fixed error in BOM editor ("amount max" is optional parameter now)
 
