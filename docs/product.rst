@@ -30,7 +30,7 @@ BOM
 
 Bill of materials for this product.
 
-# Position (optional)
-# Subpoduct
-# Amount
-# Unit (optional)
+* Position (optional)
+* Subpoduct
+* Amount
+* Unit (optional)
