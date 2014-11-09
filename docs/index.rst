@@ -35,6 +35,13 @@ For rising popularity of NaiveShark community-driven portal, please, post the li
 Version history
 ===============
 
+Version 0.0.3 "Soaring on the seabed" 09 nov 2014
+
+* New "Send feedback" command in main menu
+* On quantity page in units list - unit with factor=1 (in main cases this is a base unit for this quantity) is highlighted.
+* New measurement conditions option for measured properties for product.
+* In the list of properties on product page - links to property reference has added. In property page in reference - list of used products (with amount and links) has added.
+
 Version 0.0.2 "Deep currents" 06 nov 2014
 
 * Add: Relations between products ("Required accessories", "Repair parts")
