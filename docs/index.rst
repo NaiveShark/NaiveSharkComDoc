@@ -35,6 +35,14 @@ For rising popularity of NaiveShark community-driven portal, please, post the li
 Version history
 ===============
 
+Version 0.0.4 "Dwarf lanternshark" 18 nov 2014
+
+Named as a name of smallest *Dwarf lanternshark* species, version 0.0.4 is a site release with base working functionality for product and organization descriptions.
+
+* New web link fields for product, organization and for product page on organization site.
+* In product page now showing the full path to through product inheriting path.
+* Linking organization to product now available on product page.
+
 Version 0.0.3 "Soaring on the seabed" 09 nov 2014
 
 * New "Send feedback" command in main menu
