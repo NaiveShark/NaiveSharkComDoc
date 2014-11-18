@@ -6,7 +6,7 @@
 Welcome to NaiveShark.com help!
 =============================================
 
-`NaiveShark.com <http://www.naiveshark.com>`_ is an open database of world-wide industrial :doc:`products</product>`. You are free to add your (or any) organization or products to :doc:`catalog</catalog>`, or extend existing information.
+`NaiveShark.com <http://www.naiveshark.com>`_ is an engineering community portal and open database of world-wide industrial :doc:`products</product>`. You are free to add your (or any) organization or products to :doc:`catalog</catalog>`, or extend existing information.
 
 Who can use it?
 ===============
@@ -46,7 +46,7 @@ Named as a name of smallest *Dwarf lanternshark* species, version 0.0.4 is a sit
 Version 0.0.3 "Soaring on the seabed" 09 nov 2014
 
 * New "Send feedback" command in main menu
-* On quantity page in units list - unit with factor=1 (in main cases this is a base unit for this quantity) is highlighted.
+* Changes on quantity page in units list: unit with factor=1 (in main cases this is a base unit for this quantity) is highlighted.
 * New measurement conditions option for measured properties for product.
 * In the list of properties on product page - links to property reference has added. In property page in reference - list of used products (with amount and links) has added.
 
