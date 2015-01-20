@@ -12,7 +12,7 @@ For each organization you can define the list of subsidiaries (acquisition) orga
 Linked products
 ---------------
 
-List of product, linked with this organization. You can assign the local (manufacturer) code for product for this organization (local trade-name), and url to product page on organization web-site. Also, you can check the Role of organization to this product (Design, Manufacture, Sell, Supply, Service and Utilization flag available).
+List of :doc:`products</product>`, linked with this organization. You can assign the local (manufacturer) code for product for this organization (local trade-name), and url to product page on organization web-site. Also, you can check the Role of organization to this product (Design, Manufacture, Sell, Supply, Service and Utilization flag available).
 
 Example
 -------

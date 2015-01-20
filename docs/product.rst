@@ -25,7 +25,14 @@ Measurable parameters
 
 Amount can be:
 
-* integer value
+======================  ==========  ==========
+Numerical type          Example 1   Example 2
+======================  ==========  ==========
+Integer                 125         -15487000
+Float                   154.48      7e8
+Fraction                1/9         -4 3/4
+Proportion              1:8         7:9
+======================  ==========  ==========
 
 Enumerable parameters
 ^^^^^^^^^^^^^^^^^^^^^

@@ -103,3 +103,4 @@ Contents:
    property
    organization
    bot
+   wikipedia
