@@ -50,7 +50,7 @@ Named as a one of smallest *Spined pygmy shark* species, version 0.0.5 introduce
 * Hierarchy of organization (structure of large holdings and corporations). Inactive flag for organization - for historical information.
 * External codes for organizations (NYSE) and products - for linking with internet databases (PubChem, ChemSpider, ZINC, ChEBI on-line chemical databases).
 * AJAX-widget for selecting product via filtered select-box: in editing BOM, linking with products - in any places where large list of product are exist in select-box fields.
-* Amount value extended in metrical properties. Now it can be integer, float, fraction and proportion value, with =, <= or < conditions.
+* Amount value extended in metrical properties. Now it can be integer, float, fraction and proportion value, with =, =< or < conditions.
 * Site statistic page ( Product and org total count, Product count by categories, Latest added/modified products and Most used templates pages).
 * RSS feed for Latest added/modified products
 * Wikipedia keyword and list of Wikimedia Commons images for category, product or org.
@@ -98,6 +98,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   index
    catalog
    product
    property

@@ -18,9 +18,9 @@ Product measurable and enumerable properties.
 Measurable parameters
 ^^^^^^^^^^^^^^^^^^^^^
 * :doc:`Measurable property type</property>`
-* Amount (numerical)
-* Maximum amount (numerical)
-* Engineering tolerance (numerical)
+* Amount (integer, float, fraction, proportion) with optional equality type ( = equal by default, =< great or equal, < great )
+* Maximum amount (integer or float)
+* Engineering tolerance (integer or float)
 * Unit
 
 Amount can be:
@@ -29,7 +29,7 @@ Amount can be:
 Numerical type          Example 1   Example 2
 ======================  ==========  ==========
 Integer                 125         -15487000
-Float                   154.48      7e8
+Float                   154.48      -7e8
 Fraction                1/9         -4 3/4
 Proportion              1:8         7:9
 ======================  ==========  ==========
