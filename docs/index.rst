@@ -53,7 +53,7 @@ Named as a one of smallest *Spined pygmy shark* species, version 0.0.5 introduce
 * Amount value extended in metrical properties. Now it can be integer, float, fraction and proportion value, with =, =< or < conditions.
 * Site statistic page ( Product and org total count, Product count by categories, Latest added/modified products and Most used templates pages).
 * RSS feed for Latest added/modified products
-* Wikipedia keyword and list of Wikimedia Commons images for category, product or org.
+* Wikipedia :doc:`keyword</wikipedia>` and list of Wikimedia Commons images for category, product or org.
 * List of inherited products now paged as thumbnail grid
 
 Version 0.0.4 "Dwarf lanternshark" 18 nov 2014
@@ -105,3 +105,4 @@ Contents:
    organization
    bot
    wikipedia
+   agent
