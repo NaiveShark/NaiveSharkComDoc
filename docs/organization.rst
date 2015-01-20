@@ -17,7 +17,7 @@ List of product, linked with this organization. You can assign the local (manufa
 Example
 -------
 
-For example - `DuPont <http://www.naiveshark.com/org/org/17/>`_)
+For example - `DuPont <http://www.naiveshark.com/org/org/17/>`_
 
 .. image:: DuPont_NaiveShark_org_example.png
 
@@ -29,10 +29,11 @@ Parameter                                         Value
 Organization full name                            ``DuPont``
 Web-site                                          http://www.dupont.com/
 NYSE code                                         ``DD`` (auto converted to https://www.nyse.com/quote/XNYS:DD/ link)
-Wikipedia keyword                                 ``DuPont`` (auto converted to https://en.wikipedia.org/wiki/DuPont link)
-External images (taken from Wikimedia commons)    ``DuPont.svg``
+Wikipedia :doc:`keyword</wikipedia>`              ``DuPont`` (auto converted to https://en.wikipedia.org/wiki/DuPont link)
+External images (taken from :doc:`Wikimedia commons</wikipedia>`)    ``DuPont.svg``
 Subsidiaries and acquisitions                     not listed
 Linked products                                   ``PTFE Polytetrafluoroethylene`` (DuPont trade-name - ``Teflon``). DuPont marked as manufacturer of this product
 ================================================  ==========================================================================================================
 
 Each organization should be assigned to :doc:`category</catalog>`.
+
