@@ -65,3 +65,8 @@ Bill of materials for this product.
 Related
 -------
 Each product can have a related - as accessory, repair part etc.
+
+Linked orgs
+-----------
+
+List of organizations, linked with product - manufacturers, sellers etc. Described in :doc:`Organization linked product</organization>` page.
