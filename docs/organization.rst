@@ -15,5 +15,10 @@ Linked products
 List of product, linked with this organization. You can assign the local (manufacturer) code for product for this organization (local trade-name). Also, you can check the Role of organization to this product (Design, Manufacture,
 Sell, Supply, Service and Utilization flag available).
 
+For example - DuPont
+.. image:: DuPont_NaiveShark_org_example.png
+
+
+<http://www.naiveshark.com/org/org/17/>`_
 
 Each organization should be assigned to :doc:`category</catalog>`.
