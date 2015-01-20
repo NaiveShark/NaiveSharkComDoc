@@ -23,16 +23,16 @@ For example - DuPont (see <http://www.naiveshark.com/org/org/17/>`_)
 
 Screen-shot taken at 20 jan 2015.
 
-================================================  =====
-A                                                 B      
-================================================  =====
-Organization full name                            DuPont 
+================================================  ==========================================================================================================
+Parameter                                         Value
+================================================  ==========================================================================================================
+Organization full name                            ``DuPont``
 Web-site                                          http://www.dupont.com/
-NYSE code                                         DD (auto converted to https://www.nyse.com/quote/XNYS:DD/ link)
-Wikipedia keyword                                 DuPont (auto converted to https://en.wikipedia.org/wiki/DuPont link)
-External images (taken from Wikimedia commons)    DuPont.svg
+NYSE code                                         ``DD`` (auto converted to https://www.nyse.com/quote/XNYS:DD/ link)
+Wikipedia keyword                                 ``DuPont`` (auto converted to https://en.wikipedia.org/wiki/DuPont link)
+External images (taken from Wikimedia commons)    ``DuPont.svg``
 Subsidiaries and acquisitions                     not listed
-Linked products                                   PTFE Polytetrafluoroethylene (DuPont trade-name - Teflon). DuPont marked as manufacturer of this product
-================================================  =====
+Linked products                                   ``PTFE Polytetrafluoroethylene`` (DuPont trade-name - ``Teflon``). DuPont marked as manufacturer of this product
+================================================  ==========================================================================================================
 
 Each organization should be assigned to :doc:`category</catalog>`.
