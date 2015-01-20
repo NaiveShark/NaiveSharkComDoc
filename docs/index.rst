@@ -32,8 +32,28 @@ After you has completed the free and simple registration on site, you can:
 
 For rising popularity of NaiveShark community-driven portal, please, post the link to NaiveShark.com on any sites, forums, social networks, where any people can learn about it.
 
+How can I do...
+===============
+
+* ...sign up? Registration are free - use the Sign up button in main site menu.
+
 Version history
 ===============
+
+Version 0.0.5 "Spined pygmy shark" 20 jan 2015
+
+Named as a one of smallest *Spined pygmy shark* species, version 0.0.5 introduce many new features:
+
+* Description for category.
+* Link type between product and organization: organization can be a designer of product, manufacturer, seller etc. - or all-in-one.
+* Hierarchy of organization (structure of large holdings and corporations). Inactive flag for organization - for historical information.
+* External codes for organizations (NYSE) and products - for linking with internet databases (PubChem, ChemSpider, ZINC, ChEBI on-line chemical databases).
+* AJAX-widget for selecting product via filtered select-box: in editing BOM, linking with products - in any places where large list of product are exist in select-box fields.
+* Amount value extended in metrical properties. Now it can be integer, float, fraction and proportion value, with =, <= or < conditions.
+* Site statistic page ( Product and org total count, Product count by categories, Latest added/modified products and Most used templates pages).
+* RSS feed for Latest added/modified products
+* Wikipedia keyword and list of Wikimedia Commons images for category, product or org.
+* List of inherited products now paged as thumbnail grid
 
 Version 0.0.4 "Dwarf lanternshark" 18 nov 2014
 
