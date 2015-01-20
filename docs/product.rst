@@ -7,20 +7,28 @@ Each product can have a list of :doc:`properties</property>`.
 
 Each product should be assigned to :doc:`category</catalog>`.
 
+Product templates and inheriting
+--------------------------------
+
 Product properties
 ------------------
 
 Product measurable and enumerable properties.
 
-Measurable parameters:
-
+Measurable parameters
+^^^^^^^^^^^^^^^^^^^^^
 * :doc:`Measurable property type</property>`
-* Amount (nemerical and text)
+* Amount (numerical)
 * Maximum amount (numerical)
 * Engineering tolerance (numerical)
 * Unit
 
-Enumerable parameters:
+Amount can be:
+
+* integer value
+
+Enumerable parameters
+^^^^^^^^^^^^^^^^^^^^^
 
 * :doc:`Enumerable property type</property>`
 * Value
