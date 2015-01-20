@@ -16,6 +16,7 @@ List of product, linked with this organization. You can assign the local (manufa
 Sell, Supply, Service and Utilization flag available).
 
 For example - DuPont
+
 .. image:: DuPont_NaiveShark_org_example.png
 
 
