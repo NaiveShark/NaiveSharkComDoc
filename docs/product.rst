@@ -14,9 +14,11 @@ Product short name (code) are optional. Use it for common abbreviation or system
 
 Name is required field and contain full name of product.
 
-.. Note::
-   Use sort name and full name for correct, regular naming and local codes for organization-specific trade-names!
+Example - look at `PVC <http://www.naiveshark.com/product/product/159/>`_ page. ``PVC`` is a short name, ``Polyvinyl chloride`` - full name.
 
+.. Note::
+   Use short name and full name for correct, regular naming and local codes for organization-specific trade-names!   
+   
 Product templates and inheriting
 --------------------------------
 
