@@ -17,7 +17,7 @@ List of product, linked with this organization. You can assign the local (manufa
 Example
 -------
 
-For example - DuPont (see <http://www.naiveshark.com/org/org/17/>`_)
+For example - `DuPont <http://www.naiveshark.com/org/org/17/>`_)
 
 .. image:: DuPont_NaiveShark_org_example.png
 
