@@ -15,7 +15,7 @@ Product short name (code) are optional. Use it for common abbreviation or system
 Name is required field and contain full name of product.
 
 .. Note::
-   Use local codes!
+   Use sort name and full name for correct, regular naming and local codes for organization-specific trade-names!
 
 Product templates and inheriting
 --------------------------------
