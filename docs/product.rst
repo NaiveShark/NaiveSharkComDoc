@@ -7,6 +7,16 @@ Each product can have a list of :doc:`properties</property>`.
 
 Each product should be assigned to :doc:`category</catalog>`.
 
+Product code and name
+---------------------
+
+Product short name (code) are optional. Use it for common abbreviation or system identifier of product.
+
+Name is required field and contain full name of product.
+
+.. Note::
+   Use local codes!
+
 Product templates and inheriting
 --------------------------------
 
