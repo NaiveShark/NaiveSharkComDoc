@@ -18,6 +18,23 @@ Example - look at `PVC <http://www.naiveshark.com/product/product/159/>`_ page. 
 
 .. Note::
    Use short name and full name for correct, regular naming and local codes for organization-specific trade-names!   
+
+   
+External code
+-------------
+
+For each product you can assign the code for linking with external on-line databases. Now available 4 chemical databases (use it for chemical products and substances):
+
+=================   
+External database     Example of code             Resulting link
+
+PubChem
+ChemSpider
+ZINC
+ChEBI
+
+
+
    
 Product templates and inheriting
 --------------------------------
