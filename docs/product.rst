@@ -52,7 +52,17 @@ Each product can have the list of inherited products. In real world it's mean wh
 
 Child product inherits the properties from child - and can overwrite it values.
 
-You can mark product as 'template'. This mean what it used as basic pattern for ease the data filling of inherited product. Use it for basic (abstract) products or for product family.
+You can mark parent product as 'template'. This mean what it used as basic pattern for ease the data filling of inherited product. Use it for basic (abstract) products or for product family.
+
+Examples from base - PVC
+^^^^^^^^^^^^^^^^^^
+.. image:: PVC_Polyvinyl_chloride_NaiveShark_product.png
+Screen-shot taken at 20 jan 2015.
+
+`Polyvinyl chloride <http://www.naiveshark.com/product/product/159/>`_ product template have two inherited product:
+
+* `Polyvinyl chloride (rigid) <http://www.naiveshark.com/product/product/160/>`_
+* `Polyvinyl chloride (flexible) <http://www.naiveshark.com/product/product/161/>`_
 
 
 Product properties
