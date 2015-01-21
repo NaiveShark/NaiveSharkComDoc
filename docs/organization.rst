@@ -20,7 +20,7 @@ Example
 
 For example - `DuPont <http://www.naiveshark.com/org/org/17/>`_
 
-.. image:: DuPont_NaiveShark_org_example.png
+.. image:: \img\site\org\DuPont_NaiveShark_org_example.png
 
 Screen-shot taken at 20 jan 2015.
 
