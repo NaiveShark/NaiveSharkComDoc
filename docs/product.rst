@@ -45,6 +45,16 @@ ChEBI                  18853              https://www.ebi.ac.uk/chebi/searchId.d
 Product templates and inheriting
 --------------------------------
 
+Each product can have the list of inherited products. In real world it's mean what:
+
+* 'product1' (child) are designed based on 'product2' (parent) OR
+* 'product2' (parent) is a product-family, and 'product1' (child) are product from this family.
+
+Child product inherits the properties from child - and can overwrite it values.
+
+You can mark product as 'template'. This mean what it used as basic pattern for ease the data filling of inherited product. Use it for basic (abstract) products or for product family.
+
+
 Product properties
 ------------------
 
