@@ -52,11 +52,14 @@ Each product can have the list of inherited products. In real world it's mean wh
 
 Child product inherits the properties from child - and can overwrite it values.
 
-You can mark parent product as 'template'. This mean what it used as basic pattern for ease the data filling of inherited product. Use it for basic (abstract) products or for product family.
-
 .. Note::
    Do not confuse inheriting and BOM! *Inherit* - mean *designed based on*. *BOM* mean *included to assembly*!
 
+You can mark parent product as 'template'. This mean what it used as basic pattern for ease the data filling of inherited product. Use it for basic (abstract) products or for product family.
+
+.. Tip::
+   Look at `Most used templates <http://www.naiveshark.com/data_extraction/most_used_templates/>`_ page on site.
+   
 Examples from base - PVC
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -73,17 +76,17 @@ Some properties (melting point, for example) of rigid and flexible PVC are equal
 Examples from base - A320neo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`A320neo <http://www.naiveshark.com/product/product/45/>` product have two editions:
+`A320neo <http://www.naiveshark.com/product/product/45/>`_ product have two editions:
 
-* `A320neo with Pratt & Whitney turbofan engine <http://www.naiveshark.com/product/product/46/>`
-* `A320neo with CMF turbofan engine <http://www.naiveshark.com/product/product/47/>`
+* `A320neo with Pratt & Whitney turbofan engine <http://www.naiveshark.com/product/product/46/>`_
+* `A320neo with CMF turbofan engine <http://www.naiveshark.com/product/product/47/>`_
 
 In real world A320neo is a family, and each airline species should be with PW or CMF engine, which mean different BOM and technical specification for each of them.
 
 Examples from base - Basic material template
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Some templates hierarchy could be very complex - see `Basic material template <http://www.naiveshark.com/product/product/48/>` for example. Such abstract template can't contain precise values - only list of common properties.
+Some templates hierarchy could be very complex - see `Basic material template <http://www.naiveshark.com/product/product/48/>`_ for example. Such abstract template can't contain precise values - only list of common properties.
 
 Product properties
 ------------------
