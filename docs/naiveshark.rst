@@ -2,6 +2,9 @@
 NaiveShark.com
 ==============
 
+About
+-----
+
 `NaiveShark.com <http://www.naiveshark.com>`_ is an engineering community portal and open database of world-wide industrial :doc:`products</product>`. You are free to add your (or any) organization or products to :doc:`catalog</catalog>`, or extend existing information.
 
 Who can use it?
