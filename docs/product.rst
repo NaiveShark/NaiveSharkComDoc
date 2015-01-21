@@ -71,7 +71,7 @@ Screen-shot taken at 20 jan 2015.
 Some properties (melting point, for example) of rigid and flexible PVC are equal to base PVC, and some properties (density, for example) - are not equal.
 
 Examples from base - A320neo
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `A320neo <http://www.naiveshark.com/product/product/45/>` product have two editions:
 
@@ -79,6 +79,11 @@ Examples from base - A320neo
 * `A320neo with CMF turbofan engine <http://www.naiveshark.com/product/product/47/>`
 
 In real world A320neo is a family, and each airline species should be with PW or CMF engine, which mean different BOM and technical specification for each of them.
+
+Examples from base - Basic material template
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Some templates hierarchy could be very complex - see `Basic material template <http://www.naiveshark.com/product/product/48/>` for example. Such abstract template can't contain precise values - only list of common properties.
 
 Product properties
 ------------------
