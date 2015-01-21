@@ -27,19 +27,11 @@ Screen-shot taken at 21 jan 2015.
 
 ::
 
-Turbofan operation (lbp).png
-Ge cf6 turbofan.jpg
-Turbo-Union RB199 turbofan engine.jpg
-Klimov RD-33 turbofan engine.JPG
-Air-ftd-md90-02-ar-8.jpg
-
-
-::
-
-     Separate paragraphs with a blank line.
-     
-     This is a new paragraph.
-
+     Turbofan operation (lbp).png
+     Ge cf6 turbofan.jpg
+     Turbo-Union RB199 turbofan engine.jpg
+     Klimov RD-33 turbofan engine.JPG
+     Air-ftd-md90-02-ar-8.jpg
 
 Images are hosted at Wikimedia Commons, and reuses under `Commons:Reusing content outside Wikimedia <https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia>`_ rule.
 
