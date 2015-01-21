@@ -12,6 +12,8 @@ Welcome to NaiveShark.com help!
 
 `NaiveShark.com <http://www.naiveshark.com>`_ is an engineering community portal and open database of world-wide industrial :doc:`products</product>`. You are free to add your (or any) :doc:`organization</organization>` or :doc:`products</product>` to :doc:`catalog</catalog>`, or extend existing information.
 
+`Download documentation <https://readthedocs.org/projects/naivesharkcomdoc/downloads/>`_ page.
+
 Contents:
  
 .. toctree::
