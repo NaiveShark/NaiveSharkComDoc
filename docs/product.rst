@@ -32,7 +32,7 @@ PubChem                5976               http://pubchem.ncbi.nlm.nih.gov/summar
 ChemSpider             5756               http://www.chemspider.com/Chemical-Structure.5756.html
 ZINC
 ChEBI                  18853              https://www.ebi.ac.uk/chebi/searchId.do?chebiId=18853
-=====================  ==============     ===============================================================
+=====================  =================  ===============================================================
   
 See example at `Unsymmetrical dimethylhydrazine <http://www.naiveshark.com/product/product/178/>`_ page.
    
