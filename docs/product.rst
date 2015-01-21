@@ -25,14 +25,14 @@ External code
 
 For each product you can assign the code for linking with external on-line databases. Now available 4 chemical databases (use it for chemical products and substances):
 
-==================  =================  ===============================================================
-External database   Example of code    Resulting link (auto generating)
-==================  =================  ===============================================================
-PubChem             5976               http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5976
-ChemSpider          5756               http://www.chemspider.com/Chemical-Structure.5756.html
+=====================  =================  ===============================================================
+External database      Example of code    Resulting link (auto generating)
+=====================  =================  ===============================================================
+PubChem                5976               http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5976
+ChemSpider             5756               http://www.chemspider.com/Chemical-Structure.5756.html
 ZINC
-ChEBI               18853              https://www.ebi.ac.uk/chebi/searchId.do?chebiId=18853
-==================  ==============     ===============================================================
+ChEBI                  18853              https://www.ebi.ac.uk/chebi/searchId.do?chebiId=18853
+=====================  ==============     ===============================================================
   
 See example at `Unsymmetrical dimethylhydrazine <http://www.naiveshark.com/product/product/178/>`_ page.
    
