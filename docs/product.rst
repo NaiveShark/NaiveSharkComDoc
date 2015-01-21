@@ -54,6 +54,9 @@ Child product inherits the properties from child - and can overwrite it values.
 
 You can mark parent product as 'template'. This mean what it used as basic pattern for ease the data filling of inherited product. Use it for basic (abstract) products or for product family.
 
+.. Note::
+   Do not confuse inheriting and BOM! *Inherit* - mean *designed based on*. *BOM* mean *included to assembly*!
+
 Examples from base - PVC
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
