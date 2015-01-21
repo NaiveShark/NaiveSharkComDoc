@@ -99,6 +99,7 @@ Contents:
    :maxdepth: 2
 
    catalog
+   product
    property
    bot
    wikipedia
