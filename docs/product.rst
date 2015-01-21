@@ -63,7 +63,7 @@ You can mark parent product as 'template'. This mean what it used as basic patte
 Examples from base - PVC
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: \img\site\product\PVC_Polyvinyl_chloride_NaiveShark_product.png
+.. image:: img/site/product/PVC_Polyvinyl_chloride_NaiveShark_product.png
 Screen-shot taken at 20 jan 2015.
 
 `Polyvinyl chloride <http://www.naiveshark.com/product/product/159/>`_ product template have two inherited product:
