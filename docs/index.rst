@@ -5,7 +5,8 @@
    
 .. index::
    single: Index
-   
+
+===============================
 Welcome to NaiveShark.com help!
 ===============================
 
