@@ -98,11 +98,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   index
    catalog
-   product
    property
-   organization
    bot
    wikipedia
    agent
