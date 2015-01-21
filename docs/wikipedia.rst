@@ -10,11 +10,15 @@ Example - Turbofans category
 `Turbofans <http://www.naiveshark.com/product/category/7/>`_ category is an example.
 
 View category
+
 .. image:: img/site/category/Turbofans_NaiveShark.png
+
 Screen-shot taken at 21 jan 2015.
 
 Edit category
+
 .. image:: img/site/category/Edit_category_Turbofans_NaiveShark.png
+
 Screen-shot taken at 21 jan 2015.
 
 Wiki keyword (`Turbofan`) is a English Wikipedia article name. Full link (`https://en.wikipedia.org/wiki/Turbofan`) generated automatically.
