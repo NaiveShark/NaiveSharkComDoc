@@ -55,7 +55,8 @@ Child product inherits the properties from child - and can overwrite it values.
 You can mark parent product as 'template'. This mean what it used as basic pattern for ease the data filling of inherited product. Use it for basic (abstract) products or for product family.
 
 Examples from base - PVC
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: PVC_Polyvinyl_chloride_NaiveShark_product.png
 Screen-shot taken at 20 jan 2015.
 
@@ -64,6 +65,17 @@ Screen-shot taken at 20 jan 2015.
 * `Polyvinyl chloride (rigid) <http://www.naiveshark.com/product/product/160/>`_
 * `Polyvinyl chloride (flexible) <http://www.naiveshark.com/product/product/161/>`_
 
+Some properties (melting point, for example) of rigid and flexible PVC are equal to base PVC, and some properties (density, for example) - are not equal.
+
+Examples from base - A320neo
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+`A320neo <http://www.naiveshark.com/product/product/45/>` product have two editions:
+
+* `A320neo with Pratt & Whitney turbofan engine <http://www.naiveshark.com/product/product/46/>`
+* `A320neo with CMF turbofan engine <http://www.naiveshark.com/product/product/47/>`
+
+In real world A320neo is a family, and each airline species should be with PW or CMF engine, which mean different BOM and technical specification for each of them.
 
 Product properties
 ------------------
