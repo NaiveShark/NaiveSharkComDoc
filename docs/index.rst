@@ -100,3 +100,11 @@ Contents:
  
 .. toctree::
    :maxdepth: 2
+   
+   agent
+   bot
+   catalog
+   organization
+   product
+   property
+   wikipedia
