@@ -43,10 +43,10 @@ Wikimedia Commons image list
 
 Images are hosted at Wikimedia Commons, and reuses under `Commons:Reusing content outside Wikimedia <https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia>`_ rule.
 
-To take the image name from Wikimedia Commons you need
+To take the image name from Wikimedia Commons you need:
 
-* Find wanted image on Wikimedia (for example, `<https://commons.wikimedia.org/wiki/File:Port_talbot_large.jpg>`_)
-* Select the file name and copy to clipboard (after word `File:` as pictured)
-* Insert file name to `Wikimedia img list`. Each file name in separated line.
+1. Find wanted image on Wikimedia (for example, `<http://commons.wikimedia.org/wiki/File:Klimov_RD-33_turbofan_engine.JPG>`_)
+2. Select the file name (``Klimov RD-33 turbofan engine.JPG``) and copy to clipboard (after word `File:` as pictured)
+3. Insert file name to `Wikimedia img list`. Each file name in separated line.
 
-.. image:: img/site/wiki/File_Port_talbot_large_WikimediaCommons.png
+.. image:: img/site/wiki/File_Klimov_RD_33_turbofan_engine_WikimediaCommons.png
