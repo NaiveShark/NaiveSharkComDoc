@@ -37,7 +37,7 @@ Images are hosted at Wikimedia Commons, and reuses under `Commons:Reusing conten
 
 To take the image name from Wikimedia Commons you need
 
-* Find wanted image on Wikimedia (for example, `https://commons.wikimedia.org/wiki/File:Port_talbot_large.jpg`_)
+* Find wanted image on Wikimedia (for example, `<https://commons.wikimedia.org/wiki/File:Port_talbot_large.jpg>`_)
 * Select the file name and copy to clipboard (after word `File:` as pictured)
 * Insert file name to `Wikimedia img list`. Each file name in separated line.
 
