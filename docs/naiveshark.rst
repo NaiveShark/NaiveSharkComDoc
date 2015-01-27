@@ -41,6 +41,14 @@ How can I do...
 Version history
 ---------------
 
+Version 0.0.6 ALPHA "Weak bite of spined pygmy shark" - in process
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Still ALPHA.
+
+This will be a small hot fix.
+
+
 Version 0.0.5 "Spined pygmy shark" 20 jan 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
