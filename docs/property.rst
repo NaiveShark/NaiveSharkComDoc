@@ -19,6 +19,7 @@ Each measurable property are derived from physical Quantity. For example, basic 
 Here is an example `Quantity: Length <http://www.naiveshark.com/property/quantity/2/>`_ on site.
 
 .. image:: img/site/property/Length_quantity.png
+
 Screen-shot taken at 30 jan 2015.
 
 Unit ``m (metre)`` marked as base with ``Factor = 1``. This mean what all units for this quantity are based from metre - for example, ``kilometre`` has a ``Factor = 1000`` (one thousand metres).
@@ -31,6 +32,7 @@ Property
 See an example `Property: Maximum range, fully loaded <http://www.naiveshark.com/property/quantity/pp/6/>`_ on site.
 
 .. image:: img/site/property/Maximum_range_fully_loaded_property.png
+
 Screen-shot taken at 30 jan 2015.
 
 This property based on ``Length`` quantity, and used in some products.
@@ -45,6 +47,7 @@ Measurement condition mean what some amount of this property for some product co
 See an example `Property: Cruising speed <http://www.naiveshark.com/property/quantity/pp/38/>`_ on site.
 
 .. image:: img/site/property/Cruising_speed_property.png
+
 Screen-shot taken at 30 jan 2015.
 
 Cruising speed for airliner could be measured precisely only if ``Altitude`` value are fixed.
