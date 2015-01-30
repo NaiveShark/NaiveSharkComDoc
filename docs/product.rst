@@ -104,10 +104,12 @@ Screen-shot taken at 20 jan 2015.
 Measurable parameters
 ^^^^^^^^^^^^^^^^^^^^^
 * :doc:`Measurable property type</property>`
+* Amount equality type ( ``=`` by default, ``<=`` or ``<`` )
 * Amount (integer, float, fraction, proportion) with optional equality type ( = equal by default, =< great or equal, < great )
 * Maximum amount (integer or float)
 * Engineering tolerance (integer or float)
 * Unit
+* Measurement condition
 
 Amount can be:
 

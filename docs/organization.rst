@@ -20,9 +20,9 @@ Local code
 
 See example `DuPont <http://www.naiveshark.com/org/org/17/>`_:
 
-* ``PTFE`` - short name
-* ``Polytetrafluoroethylene`` - full name
-* ``Teflon`` - trade-mark of DuPont
+* ``PTFE`` - product short name
+* ``Polytetrafluoroethylene`` - product full name
+* ``Teflon`` - product trade-mark of DuPont
 
 Example
 -------
