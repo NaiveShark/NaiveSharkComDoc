@@ -15,8 +15,14 @@ Each measurable property are derived from physical Quantity. For example, basic 
 
 Here is an example `Quantity: Length <http://www.naiveshark.com/property/quantity/2/>`_ on site.
 
+.. image:: img/site/property/Length_property.png
+Screen-shot taken at 30 jan 2015.
+
 Users can extend list of quantities, units and properties.
 
+Velocity
+
+http://www.naiveshark.com/property/quantity/8/
 
 Enumerable property
 -------------------
