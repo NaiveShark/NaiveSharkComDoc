@@ -90,9 +90,10 @@ Some templates hierarchy could be very complex - see `Basic material template <h
 Product properties
 ------------------
 
-Each product can have a list of measurable and enumerable properties - own or inherited from parent product.
+Each product can have a list of measurable and enumerable properties. Property value can be own by itself or inherited from parent product.
 
-:ref:`measurable_parameter_in_prod`
+* :ref:`measurable_parameter_in_prod`
+* :ref:`enumerable_parameter_in_prod`
 
 For overview - see the screen-shot of example `102NU70 Bipolar transistor <http://www.naiveshark.com/product/product/6947/>`_.
 
@@ -126,6 +127,8 @@ Float                   154.48      -7e8
 Fraction                1/9         -4 3/4
 Proportion              1:8         7:9
 ======================  ==========  ==========
+
+.. _enumerable_parameter_in_prod:
 
 Enumerable parameters
 ^^^^^^^^^^^^^^^^^^^^^
