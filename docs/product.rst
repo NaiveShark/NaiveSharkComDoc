@@ -18,7 +18,7 @@ Name is required field and contain full name of product.
 Example - look at `PVC <http://www.naiveshark.com/product/product/159/>`_ page. ``PVC`` is a short name, ``Polyvinyl chloride`` - full name.
 
 .. Note::
-   Use short name and full name for correct, regular naming. For organization-specific trade-name (or manufacturer code) use the ``local code`` field in ``linked org``'s list! See more :ref:`.. local_code_in_org:`.
+   Use short name and full name for correct, regular naming. For organization-specific trade-name (or manufacturer code) use the ``local code`` field in ``linked org``'s list! See more :ref:`local_code_in_org`.
    
 External code
 -------------
