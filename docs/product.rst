@@ -92,6 +92,8 @@ Product properties
 
 Each product can have a list of measurable and enumerable properties - own or inherited from parent product.
 
+:ref:`Measurable parameters`
+
 For overview - see the screen-shot of example `102NU70 Bipolar transistor <http://www.naiveshark.com/product/product/6947/>`_.
 
 .. image:: img/site/product/102NU70_NaiveShark_product.png
