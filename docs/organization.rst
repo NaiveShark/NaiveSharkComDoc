@@ -15,6 +15,15 @@ Linked products
 
 List of :doc:`products</product>`, linked with this organization. You can assign the local (manufacturer) code for product for this organization (local trade-name), and url to product page on organization web-site. Also, you can check the Role of organization to this product (Design, Manufacture, Sell, Supply, Service and Utilization flag available).
 
+Local code
+^^^^^^^^^^
+
+See example `DuPont <http://www.naiveshark.com/org/org/17/>`_:
+
+* ``PTFE`` - short name
+* ``Polytetrafluoroethylene`` - full name
+* ``Teflon`` - trade-mark of DuPont
+
 Example
 -------
 
