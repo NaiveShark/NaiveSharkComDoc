@@ -4,7 +4,7 @@ Product
 
 Product is a central part of database. Product mean industrial products, product's family, materials and other types of productions.
 
-Each product can have a list of :doc:`properties</property>`.
+Each product can have a list of * :ref:`product_properties`.
 
 Each product should be assigned to :doc:`category</catalog>`.
 
@@ -18,7 +18,7 @@ Name is required field and contain full name of product.
 Example - look at `PVC <http://www.naiveshark.com/product/product/159/>`_ page. ``PVC`` is a short name, ``Polyvinyl chloride`` - full name.
 
 .. Note::
-   Use short name and full name for correct, regular naming. For organization-specific trade-name (or manufacturer code) use the ``local code`` field in ``linked org``'s list! See more :doc:`Organization linked product</organization>`.
+   Use short name and full name for correct, regular naming. For organization-specific trade-name (or manufacturer code) use the ``local code`` field in ``linked org``'s list! See more :ref:`.. local_code_in_org:`.
    
 External code
 -------------
@@ -87,6 +87,8 @@ Examples from base - Basic material template
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Some templates hierarchy could be very complex - see `Basic material template <http://www.naiveshark.com/product/product/48/>`_ for example. Such abstract template can't contain precise values - only list of common properties.
+
+.. _product_properties:
 
 Product properties
 ------------------
