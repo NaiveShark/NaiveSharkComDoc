@@ -11,6 +11,9 @@ Property is a portion of information about some :doc:`product</product>`. For ex
 Measurable property
 -------------------
 
+Quantity
+^^^^^^^^
+
 Each measurable property are derived from physical Quantity. For example, basic physical quantity ``Length`` are used for several product properties - ``Width``, ``Range of a projectile``, ``Maximum range``, ``Typical measuring range`` etc. Each quantity have a list of units - for ``Length`` it's a ``metre``, ``inch``, ``yard`` etc. All units in one Quantity can be easily converted to each one. 
 
 Here is an example `Quantity: Length <http://www.naiveshark.com/property/quantity/2/>`_ on site.
@@ -22,8 +25,17 @@ Unit ``m (metre)`` marked as base with ``Factor = 1``. This mean what all units 
 
 Users can extend list of quantities, units and properties.
 
-.. image:: img/site/property/Length_property.png
+Property
+^^^^^^^^
+
+See example 
+
+`Property: Maximum range, fully loaded <http://www.naiveshark.com/property/quantity/6/>`_ on site.
+
+.. image:: img/site/property/Maximum_range_fully_loaded_property.png
 Screen-shot taken at 30 jan 2015.
+
+This property based on ``Length`` quantity, and used in some products.
 
 
 Velocity
