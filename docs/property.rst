@@ -38,9 +38,9 @@ This property based on ``Length`` quantity, and used in some products.
 Measurement conditions in properties
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Velocity
+Measurement condition mean what some amount of this property for some product could be measured only in some condition.
 
-http://www.naiveshark.com/property/quantity/8/
+See an example `Property: Velocity <http://www.naiveshark.com/property/quantity/8/>`_ on site.
 
 Enumerable property
 -------------------
