@@ -28,7 +28,7 @@ Users can extend list of quantities, units and properties.
 Property
 ^^^^^^^^
 
-See example `Property: Maximum range, fully loaded <http://www.naiveshark.com/property/quantity/pp/6/>`_ on site.
+See an example `Property: Maximum range, fully loaded <http://www.naiveshark.com/property/quantity/pp/6/>`_ on site.
 
 .. image:: img/site/property/Maximum_range_fully_loaded_property.png
 Screen-shot taken at 30 jan 2015.
@@ -45,7 +45,7 @@ See an example `Property: Cruising speed <http://www.naiveshark.com/property/qua
 .. image:: img/site/property/Cruising_speed_property.png
 Screen-shot taken at 30 jan 2015.
 
-Cruising speed for airliner could be measured precisely only if ``Altitude`` are fixed.
+Cruising speed for airliner could be measured precisely only if ``Altitude`` value are fixed.
 
 Enumerable property
 -------------------
