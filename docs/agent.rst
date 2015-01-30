@@ -7,4 +7,5 @@ Naiveshark Agent is a small freeware Windows program, which keep you informed ab
 You can download it on `NaiveShark PostPDM <http://naiveshark.postpdm.com/>`_ site.
 
 .. image:: img/agent/Naiveshark_agent.png
+
 Screen-shot taken at 21 jan 2015.

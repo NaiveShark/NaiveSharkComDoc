@@ -35,6 +35,8 @@ Screen-shot taken at 30 jan 2015.
 
 This property based on ``Length`` quantity, and used in some products.
 
+.. _measurement_conditions_in_properties:
+
 Measurement conditions in properties
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

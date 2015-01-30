@@ -115,7 +115,7 @@ Measurable parameters
 * Maximum amount (integer or float)
 * Engineering tolerance (integer or float)
 * Unit
-* Measurement condition
+* Measurement condition ( :ref:`measurement_conditions_in_properties`)
 
 Amount can be:
 
