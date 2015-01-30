@@ -40,7 +40,12 @@ Measurement conditions in properties
 
 Measurement condition mean what some amount of this property for some product could be measured only in some condition.
 
-See an example `Property: Velocity <http://www.naiveshark.com/property/quantity/8/>`_ on site.
+See an example `Property: Cruising speed <http://www.naiveshark.com/property/quantity/pp/38/>`_ on site.
+
+.. image:: img/site/property/Cruising_speed_property.png
+Screen-shot taken at 30 jan 2015.
+
+Cruising speed for airliner could be measured precisely only if ``Altitude`` are fixed.
 
 Enumerable property
 -------------------
