@@ -28,15 +28,15 @@ Users can extend list of quantities, units and properties.
 Property
 ^^^^^^^^
 
-See example 
-
-`Property: Maximum range, fully loaded <http://www.naiveshark.com/property/quantity/6/>`_ on site.
+See example `Property: Maximum range, fully loaded <http://www.naiveshark.com/property/quantity/pp/6/>`_ on site.
 
 .. image:: img/site/property/Maximum_range_fully_loaded_property.png
 Screen-shot taken at 30 jan 2015.
 
 This property based on ``Length`` quantity, and used in some products.
 
+Measurement conditions in properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Velocity
 
