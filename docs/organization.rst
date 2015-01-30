@@ -15,7 +15,7 @@ Linked products
 
 List of :doc:`products</product>`, linked with this organization. You can assign the local (manufacturer) code for product for this organization (local trade-name), and url to product page on organization web-site. Also, you can check the Role of organization to this product (Design, Manufacture, Sell, Supply, Service and Utilization flag available).
 
-.. local_code_in_org:
+.. _local_code_in_org:
 
 Local code
 ^^^^^^^^^^
