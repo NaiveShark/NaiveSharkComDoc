@@ -4,7 +4,7 @@ Naiveshark agent for Windows
 
 Naiveshark Agent is a small freeware Windows program, which keep you informed about data changes on main `NaiveShark.com <http://www.naiveshark.com>`_ site.
 
-You can download it on `NaiveShark Agebt <http://soft.naiveshark.com/>`_ site.
+You can download it on `NaiveShark Agent <http://soft.naiveshark.com/>`_ site.
 
 .. image:: img/agent/Naiveshark_agent.png
 
