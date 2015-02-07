@@ -41,12 +41,19 @@ How can I do...
 Version history
 ---------------
 
-Version 0.0.6 ALPHA "Weak bite of spined pygmy shark" - in process
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Version 0.0.6 "Weak bite of spined pygmy shark" - 07 feb 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Still ALPHA.
+This is a small update above 0.0.5 version.
 
-This will be a small hot fix.
+New features:
+
+* New `Talk` page for products, orgs and categories - for user discussions.
+
+Changes:
+
+* New separate command for `Ancestor product` field changing.
+* View-Talk-Edit-Hitory commands are now tabpages in products, orgs and categories.
 
 
 Version 0.0.5 "Spined pygmy shark" 20 jan 2015
