@@ -44,7 +44,7 @@ Version history
 Version 0.1 "Pygmy ribbontail catshark" - 06 mar 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Named as a one of smallest *Pygmy ribbontail catshark* species, version 0.1 introduce main new feature - :doc:`keyword</project>`. 
+Named as a one of smallest *Pygmy ribbontail catshark* species, version 0.1 introduce main new feature - :doc:`projects</project>`. 
 
 New feature:
 

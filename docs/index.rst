@@ -24,6 +24,7 @@ Contents:
    organization
    product
    property
+   project
    bot   
    wikipedia
    agent
