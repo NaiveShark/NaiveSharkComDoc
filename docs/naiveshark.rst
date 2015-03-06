@@ -41,6 +41,15 @@ How can I do...
 Version history
 ---------------
 
+Version 0.1 "Pygmy ribbontail catshark" - 06 mar 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Named as a one of smallest *Pygmy ribbontail catshark* species, version 0.1 introduce main new feature - :doc:`keyword</project>`. 
+
+New feature:
+
+* Private and public projects for our users. Project is a place to plan and discuss your engineer approaches, tasks, share file links for materials and results.
+
 Version 0.0.6 "Weak bite of spined pygmy shark" - 07 feb 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
