@@ -23,7 +23,7 @@ Site does not provide the file storage for your projects. You can to organize yo
 Product list 
 ------------
 
-Admin can create product list. Project members can add :doc:`products</product>`to list. 
+Admin can create product list. Project members can add :doc:`products</product>` to list. 
 
 This useful to get the quick access to products, related to your project. For example, this can be a list of existing products, modified in your design.
 
