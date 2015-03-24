@@ -20,6 +20,7 @@ Contents:
    :maxdepth: 2
    
    naiveshark
+   howto
    catalog
    organization
    product
