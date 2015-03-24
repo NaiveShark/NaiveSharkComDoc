@@ -46,6 +46,11 @@ Version 0.1.1 "Weak bite of pygmy ribbontail catshark" - 13 mar 2015
 
 This is a small update above 0.1 version.
 
+New features:
+
+* Edit the previously posted topic and topic comments (for authors)
+* User notifications about topic changes
+
 Fixed bug:
 
 * Invited project member can't open the project to accept - if project is private.
