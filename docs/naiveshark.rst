@@ -34,6 +34,14 @@ For rising popularity of NaiveShark community-driven portal, please, post the li
 Version history
 ---------------
 
+Version 0.1.2 "Another one bite of pygmy ribbontail catshark" - 24 mar 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This is an another small update above 0.1 and 0.1.1 version.
+
+New feature:
+
+* Task search filters in project page
+
 Version 0.1.1 "Weak bite of pygmy ribbontail catshark" - 13 mar 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
