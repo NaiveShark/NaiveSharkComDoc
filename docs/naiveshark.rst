@@ -34,6 +34,14 @@ For rising popularity of NaiveShark community-driven portal, please, post the li
 Version history
 ---------------
 
+Version 0.2 "Velvet belly lanternshark" - 03 apr 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+New features:
+
+* New statistics page - "New product count by date"
+* New optional "Clarifying product" link for enumerable property variant.
+
 Version 0.1.2 "Another one bite of pygmy ribbontail catshark" - 24 mar 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 This is an another small update above 0.1 and 0.1.1 version.
