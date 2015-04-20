@@ -34,6 +34,14 @@ For rising popularity of NaiveShark community-driven portal, please, post the li
 Version history
 ---------------
 
+Version 0.3 "Blurred lanternshark" - 13 apr 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+New features:
+
+* Images for enumarable property variant
+* For metrical property - use property default unit
+
 Version 0.2 "Velvet belly lanternshark" - 03 apr 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
