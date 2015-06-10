@@ -34,13 +34,26 @@ For rising popularity of NaiveShark community-driven portal, please, post the li
 Version history
 ---------------
 
+Version 0.5 "Hooktooth dogfish" 10 june 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* More sophisticated product searching - filter by metrical property amount and enumerated properties.
+
+Version 0.4 "Smalleye pygmy shark" 26 may 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+New features:
+
+* Simple product searching - filter by name
+* Web API for user notifications for desktop-client
+
 Version 0.3 "Blurred lanternshark" - 13 apr 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 New features:
 
 * Images for enumarable property variant
-* For metrical property - use property default unit
+* For metrical property - using the property default unit
 
 Version 0.2 "Velvet belly lanternshark" - 03 apr 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
